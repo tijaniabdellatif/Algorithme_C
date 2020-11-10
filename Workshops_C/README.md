@@ -22,4 +22,15 @@ On affichera à l’écran le contenu de ces différentes variables selon le for
 Un cercle de rayon r a pour diamètre D, pour périmetre P et pour surface S.
 NB : Le rayon est une entrée du programme (entrer au clavier par l’utilisateur). 
 ```
+## _*#4*_ : 
+```
+Ecrire un programme qui affiche la moyenne d'une suite d'entiers positifs entrés au clavier. On arrêtera la saisie quand le nombre -1 est entré,
+comme dans l'exemple suivant :  
+Entrez un entier positif : 5
+Entrez un entier positif :2 
+Entrez un entier positif :3 
+Entrez un entier positif :-1 
+La moyenne de ces 3 entiers vaut 3.333333 
+```
+
 
