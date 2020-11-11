@@ -136,11 +136,11 @@ A vous de découvrir l'algorithme
     return 0;
   }
   
-  + et : 
+  +et : 
   
  int main(int argc,char const **argv)
  
- + Justifiez votre réponse avec des exemples. 
+ +Justifiez votre réponse avec des exemples. 
   
   
 
