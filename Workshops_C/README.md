@@ -54,11 +54,44 @@ Creez votre calculatrice conditionnée :
 * pour le cas de la division vérifiez si la valeur du diviseur est différente de 0 
   si oui faire la division sinon afficher erreur
   
-* Affichez le resultat à l'ecran.
+* Affichez le resultat à l'écran.
 * Créez votre arbre de décision
 
 Refaite le meme exercice en utilisant `switch Case`
 ```
 
+## _*#3*_ :
+***
+```diff
+
+Calculez le plus grand diviseur commun de deux nombres entrez au clavier 
+Affichez toutes les étapes du Calcul
+
++ Algorithme : On veut calculer le pgcd des nombres 21 et 15
+
+pgcd(21,15) =>  
+Step 1 : 21 = 15 * 1 + 6
+Step 2 : 15 = 6 * 2 + 3 
+....
+On va continuer les steps  jusqu'à avoir un diviseur = 0 et un reste = 0.
+
+Refaite le meme exercice avec la boucle while 
+```
+## _*#4*_ :
+***
+```
+Ecrivez un programme en C qui va te permettre de saisir un nombre au clavier et de savoir si c'est un nombre premier ou non premier ?
+
+Nota bene : Un nombre premier est un nombre qui est divisé par un et lui meme
+```
+
+
+## _*#5*_ : Challenge
+***
+```CSS
+Créez une table de multipilcation d'un nombre saisi au clavier .
+Cette table de multiplication débute du nombre 1 et finisse à 10
+
+```
 
 
