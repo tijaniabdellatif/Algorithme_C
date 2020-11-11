@@ -86,11 +86,14 @@ Nota bene : Un nombre premier est un nombre qui est divisé par un et lui meme
 ```
 
 
+
+
 ## _*#5*_ : Challenge
 ***
-```CSS
+```
 Créez une table de multipilcation d'un nombre saisi au clavier .
-Cette table de multiplication débute du nombre 1 et finisse à 10
+Cette table de multiplication débute du nombre 1 et finisse à 10.
+A vous de découvrir l'algorithme
 
 ```
 
