@@ -128,8 +128,7 @@ A vous de découvrir l'algorithme
 # Step 3: 
 ***
 ## _*#1*_ :
-***
-```
+```diff
 + Expliquez la difference entre : 
 
  int main()
