@@ -124,7 +124,6 @@ A vous de découvrir l'algorithme
 
 ```
 
-
 # Step 3: 
 ***
 ## _*#1*_ :
@@ -158,7 +157,7 @@ Créez votre premiére fonction :
 
 ## _*#3*_:
 ```diff
-Ecrivez une fonction qui permet de desinner une pyramide des étoiles :
+Ecrivez une fonction qui permet d'afficher une pyramide des étoiles :
 
 +Algorithme : https://miro.com/welcomeonboard/LAeQfjZ77hMqRhJsPUsYXQhLX5w49xpyS86ZeVJqisyC2k9iCfvK2Nhrt2QN7Nno
 
@@ -167,3 +166,14 @@ Pour réaliser le workshop : créez deux fonctions void PrintStar(int n) pour de
 En se basant sur la pyramide créée, Créez une fonction qui permet de visualiser un triangle des étoiles depuis la pyramide.
 ```
 
+## _*Challenge*_ : 
+***
+```
+Créez une fonction add(int a , int b) qui permet de faire l'addition des deux nombres a et b 
+Créez une fonction echanger() pour echanger la valeur de a avec la valeur de b, qu'est ce que vous constatez ? affichez aussi l'etat initial des variables a et b 
+Créez une fonction `bool isPremier()` pour vérifier si un nombre il est premier ou non (constatez que le type de la fonction est bool, donc vous devez créez votre type Bool)
+Créez une fonction divededby(int n,int a) qui retoune la division des deux valeurs
+utilisez la fonction dividedby() pour controller si le nombre est premier en retoune true, sinon on retourne false
+```
+
+:computer::computer::computer: 
