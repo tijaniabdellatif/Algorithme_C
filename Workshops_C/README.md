@@ -60,7 +60,16 @@ Creez votre calculatrice conditionnée :
 Refaite le meme exercice en utilisant `switch Case`
 ```
 
-## _*#3*_ :
+## _*#3*_ : 
+```
+Ecrivez une fonction en C qui permet de résoudre une équation du deuxieme degrés ax² + bx + c = 0 
+les coefficients a,b et c sont saisi à partir du clavier 
+
+Hint : 
+Delta = b²*4*a*c, basez vous cette formule pour trouver les solutions
+```
+
+## _*#4*_ :
 ***
 ```diff
 
@@ -77,7 +86,7 @@ On va continuer les steps  jusqu'à avoir un diviseur = 0 et un reste = 0.
 
 Refaite le meme exercice avec la boucle while 
 ```
-## _*#4*_ :
+## _*#5*_ :
 ***
 ```
 Ecrivez un programme en C qui va te permettre de saisir un nombre au clavier et de savoir si c'est un nombre premier ou non premier ?
@@ -85,10 +94,28 @@ Ecrivez un programme en C qui va te permettre de saisir un nombre au clavier et 
 Nota bene : Un nombre premier est un nombre qui est divisé par un et lui meme
 ```
 
+## _*#6*_ :
+***
+```
+Ecrire un programme qui multiplie deux entiers positifs a et b selon le principe récursif suivant : 
+
+a * b = a * (b-1) + 1 si b est impair
+a * b = (2 * a) * (b/2) si b est pair et different de 0 
+
+Exemple : 
+36 * 7 = 36 * 6 + 36 
+       = 72 * 3 + 36
+       = 72 * 2 + 108
+       = 144 * 1 + 108 
+       = 144 * 0 + 252
+       = 252
+       
+ Soignez l'interface homme/machine en respectant l'affichage ci-dessus et selon la méthode récursif expliqué précédemment      
+       
+```
 
 
-
-## _*#5*_ : Challenge
+## _*Challenge*_ : 
 ***
 ```
 Créez une table de multipilcation d'un nombre saisi au clavier .
