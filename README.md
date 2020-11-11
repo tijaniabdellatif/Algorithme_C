@@ -5,7 +5,7 @@ Vous trouvez la documentation sur le lien suivant.
 
 :label: [Visitez le lien suivant](https://github.com/tijaniabdellatif/Algorithme_C/wiki)
 
-## Sujet de recherche  : 
+## Sujets de recherche  : 
 
 * Triangle Pascal : Algorithme + implémentation en C + rapport d'activités.
 * Chiffrement RSA : Algorithme + implémentation en C + rapport d'activités.
