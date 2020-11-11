@@ -33,4 +33,32 @@ Entrez un entier positif :-1
 La moyenne de ces 3 entiers vaut 3.333333 
 ```
 
+# Step 2: 
+***
+## _*#1*_ : 
+```
+Pour une gestion du mémoire il est recommandé de creer des constantes sous forme d'expression (Macros), 
+ce qui est demandé est de creer une constante qui te permet de vérifier si un nombre est superieure à un autre le resultat du retour soit 0 soit 1 ,pour formater le resultat de retour créez un constante qui permet d'afficher si 0 = False si 1 = true
+Macro : MAX(a,b)
+Nota bene : il faut creer votre premier type boolean afin de permettre la bonne marche du programme 
+```
+
+## _*#2*_ : 
+```
+Creez votre calculatrice conditionnée : 
+* Ecrivez un programme qui permettra d'entrer deux nombres aux claviers et les afficher avec leur taille en Octet et en Hexadecimal.
+* Maintenant Controller les signes : + , - , * , / , % comme char.
+* si le signe est + on va faire l'addition des deux nombres
+  si le signe est - on va faire la soustraction etc ...
+ 
+* pour le cas de la division vérifiez si la valeur du diviseur est différente de 0 
+  si oui faire la division sinon afficher erreur
+  
+* Affichez le resultat à l'ecran.
+* Créez votre arbre de décision
+
+Refaite le meme exercice en utilisant `switch Case`
+```
+
+
 
