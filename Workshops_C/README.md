@@ -176,4 +176,4 @@ Créez une fonction divededby(int n,int a) qui retoune la division des deux vale
 utilisez la fonction dividedby() pour controller si le nombre est premier en retoune true, sinon on retourne false
 ```
 
-:computer::computer::computer: 
+:computer::computer::computer::computer::computer::computer: :computer::computer::computer: :computer::computer::computer: :computer::computer::computer: :computer::computer::computer: :computer::computer::computer: 
