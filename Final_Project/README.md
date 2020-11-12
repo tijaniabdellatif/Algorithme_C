@@ -21,7 +21,11 @@ Le but de ce projet est de mettre en évidence votre capacité d'analyse, de tra
 
 ## User Stories : 
 
+Vous allez etre amenée à manipuler un tableau des entiers dynamiquement, pour réussir le challenge vous allez utiliser vos connaissances sur les fonctions et votre capacité de documentation sur les tableaux.
 
+*_Le product owner_* exige le product backlog suivant, en sachant que l'ordre de priorité est à vous de le faire pour une optimisation de votre avancement
+
+[Product Backlog](https://miro.com/welcomeonboard/wkqpYb6u6uCD2mnk32UqmnKPNv5SDObpcFjT8E9fTkdtvwVb4asNSFMXYO08sOcF)
 
 
 
