@@ -25,7 +25,14 @@ Vous allez etre amenée à manipuler un tableau des entiers dynamiquement, pour 
 
 *_Le product owner_* exige le product backlog suivant, en sachant que l'ordre de priorité est à vous de le faire pour une optimisation de votre avancement
 
-[Product Backlog](https://miro.com/welcomeonboard/wkqpYb6u6uCD2mnk32UqmnKPNv5SDObpcFjT8E9fTkdtvwVb4asNSFMXYO08sOcF)
+* [Product Backlog](https://miro.com/welcomeonboard/wkqpYb6u6uCD2mnk32UqmnKPNv5SDObpcFjT8E9fTkdtvwVb4asNSFMXYO08sOcF)
+
+
+:label: Some helpful links : 
+
+* [ Agile Board ](https://github.com/tijaniabdellatif/Algorithme_C/tree/main/Agile_Workflow).
+* [Chronogramme des taches](https://docs.google.com/spreadsheets/d/1NM_gEF1-vL3_-NjkVuGk9GGEgCDeCLMadxIMV4ziM3Y/edit?usp=sharing).
+
 
 
 
