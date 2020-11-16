@@ -35,7 +35,13 @@ Vous allez etre amenée à manipuler un tableau des entiers dynamiquement, pour 
 
 
 
+:label: Bonus : 
 
+Pour gagner plus de point à la fin du programme, vous pouvez ajouter l'algorithme du tri par selection
+
+***
+
+*Je vous souhaite bon courage*   :computer::computer::computer::computer::computer::computer::computer::computer::computer::computer: 
 
 
 
